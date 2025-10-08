@@ -1,7 +1,12 @@
 .site-header {
-    background-color: lightgreen;
+    background-color: #C1D37F
 }
 
-.text-size {
-    font-size: 16;
+.main {
+    background-color: #DD73;
+
+}
+
+.footer {
+    background-color: #5E548E;
 }
